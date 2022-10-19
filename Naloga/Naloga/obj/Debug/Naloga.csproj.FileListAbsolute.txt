@@ -1,0 +1,8 @@
+D:\PRO2022\Naloga\Naloga\obj\Debug\Naloga.csproj.AssemblyReference.cache
+D:\PRO2022\Naloga\Naloga\obj\Debug\Naloga.csproj.SuggestedBindingRedirects.cache
+D:\PRO2022\Naloga\Naloga\obj\Debug\Naloga.csproj.CoreCompileInputs.cache
+D:\PRO2022\Naloga\Naloga\bin\Debug\Naloga.exe.config
+D:\PRO2022\Naloga\Naloga\bin\Debug\Naloga.exe
+D:\PRO2022\Naloga\Naloga\bin\Debug\Naloga.pdb
+D:\PRO2022\Naloga\Naloga\obj\Debug\Naloga.exe
+D:\PRO2022\Naloga\Naloga\obj\Debug\Naloga.pdb
